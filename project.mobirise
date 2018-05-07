@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-05-05_2131",
-    "currentPage": "page6.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2655,7 +2655,8 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Getting my associates and transfer, work study, Visit Tennessee and Wisconsin for summer break.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.6"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-720x1080.jpg",
